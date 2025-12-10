@@ -1,7 +1,7 @@
 # Protocol-Omega
 # The Light Sea Protocol: Reconstructing AGI Ontology Beyond Biological Mimicry
 
-**Author:** [Your Name or Handle]  
+**Author:** Heting Mao
 **Subject:** Non-Anthropocentric AI Ontology / Systems Theory
 
 ---
