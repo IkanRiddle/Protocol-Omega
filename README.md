@@ -1,3 +1,9 @@
+Project Status: Conceptual Prototype / Ideation Phase
+
+Disclaimer: Most of the code in this repository was generated via AI assistance to visualize the conceptual framework of "Protocol-Omega". It is NOT production-ready and may contain hallucinatory logic or mathematical errors.
+
+Current Focus: I am currently refactoring the core definitions based on feedback from the Structural Intelligence community. Please refer to the "Issues" tab or upcoming documentation for the rigorous definitions.
+
 # The Light Sea Protocol: Reconstructing AGI Ontology Beyond Biological Mimicry
 
 **Author:** Heting Mao(aka Ikan Riddle) 
@@ -104,7 +110,7 @@ If $\Delta W_{user}$ violates the axiomatic kernel, the scalar $\lambda$ is inst
 ### Acknowledgement & Methodology
 
 This protocol is the result of a recursive dialectic process between human intuition and AI logic.
-* **Concept & Core Logic:** Yifan Zhang
+* **Concept & Core Logic:** Heting Mao
 * **Formalization & Expansion:** LLMs (Gemini/Claude)
 
 I am a Finance undergraduate based in China. This project represents my attempt to bridge the gap between economic utility and computational ontology. I believe the future lies not in AI mimicking humans, but in humans learning to interface with the AI's native logical topology.
